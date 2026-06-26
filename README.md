@@ -1,16 +1,16 @@
-# 💫 About Me
+# About Me
 Hi, I’m **Mohamad Daakour**, a passionate **Software Engineer** focused on **MERN stack development**, currently building real-world web applications with an emphasis on **clean, scalable, and maintainable code**. I work comfortably across the full stack using **HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Node.js, Express, MongoDB, and SQL**, and I also have a strong foundation in **C, Linux, Bash scripting, and system-level thinking**. I enjoy understanding how things work under the hood, designing solid backend architectures, and creating performant, well-structured frontend experiences. I believe that good software is not just functional but readable, secure, and easy to maintain, and I’m continuously improving my skills through hands-on projects, problem-solving, and deep learning.
 
 ---
 
-## 🌐 Socials
+## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamad__daakour)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-daakour-16a810396)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamaddaakour8@gmail.com)
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,6 +33,6 @@ Hi, I’m **Mohamad Daakour**, a passionate **Software Engineer** focused on **M
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamaddaakour&theme=dark&hide_border=false&layout=compact)
